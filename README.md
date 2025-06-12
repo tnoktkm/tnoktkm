@@ -8,6 +8,7 @@ Recent graduate with a Bachelor's and Master's degree in Applied Mathematics and
 - 📧 Contact me: 
 
 📫 Contact Me on Social Media
+=
 - peskow.igor@gmail.com / tnoktkm@mail.ru
 - [Telegram](https://t.me/peskowww)
 
