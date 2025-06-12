@@ -10,11 +10,10 @@ Recent graduate with a Bachelor's and Master's degree in Applied Mathematics and
 - peskow.igor@gmail.com / tnoktkm@mail.ru
 - [Telegram](https://t.me/peskowww)
 # 💡 Projects 
-=
-[Bot for vk.com](https://github.com/tnoktkm/VkBotForTopPosts) - bot for analyze info about posts in public group.
-[Bot for insta](https://github.com/tnoktkm/AutoPostingBotFromInstagramToVk) - bot for autopost images from insta to vk.com group.
-[Discrete Algorithms](https://github.com/tnoktkm/Discrete-mathematics) - some algorithms from my uni practice.
-[WhiteTorrenti](https://github.com/tnoktkm/whitetorrenti) - site for download games by torrent.
+[Bot for vk.com](https://github.com/tnoktkm/VkBotForTopPosts) - bot for analyze info about posts in public group.<br>
+[Bot for insta](https://github.com/tnoktkm/AutoPostingBotFromInstagramToVk) - bot for autopost images from insta to vk.com group.<br>
+[Discrete Algorithms](https://github.com/tnoktkm/Discrete-mathematics) - some algorithms from my uni practice.<br>
+[WhiteTorrenti](https://github.com/tnoktkm/whitetorrenti) - site for download games by torrent.<br>
 
 <!--
 
