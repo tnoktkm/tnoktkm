@@ -2,7 +2,7 @@
 
 I`m Igor Backend Developer 
 
-Recent graduate with a Master's degree in Applied Mathematics and Computer Science. I enjoy building things with code, especially [Области разработки/Интересы].
+Recent graduate with a Master's degree in Applied Mathematics and Computer Science.
 
 - 🌱 Currently working on improving my skills in GO.
 - 📧 Contact me: peskow.igor@gmail.com / tnoktkm@mail.ru
