@@ -1,11 +1,15 @@
 👋 Hi there 
 =
-I`m Igor Backend Developer 
+I`m Igor Backend dev with bold ideas
 
 Recent graduate with a Bachelor's and Master's degree in Applied Mathematics and Computer Science.
 
 - 🌱 Currently working on improving my skills in GO.
-- 📧 Contact me: peskow.igor@gmail.com / tnoktkm@mail.ru
+- 📧 Contact me: 
+
+📫 Contact Me on Social Media
+- peskow.igor@gmail.com / tnoktkm@mail.ru
+- [Telegram](https://t.me/peskowww)
 
 <!--
 
