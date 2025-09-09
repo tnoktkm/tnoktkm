@@ -1,5 +1,5 @@
 # 👋 Hi there 
-I`m Igor Backend dev with bold ideas
+I`m Igor C#/.NET Backend dev with bold ideas
 
 Graduate with a Bachelor's and Master's degree in Applied Mathematics and Computer Science.
 
