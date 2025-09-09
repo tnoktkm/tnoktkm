@@ -3,7 +3,7 @@ I`m Igor Backend dev with bold ideas
 
 Graduate with a Bachelor's and Master's degree in Applied Mathematics and Computer Science.
 
-- Worked at SpaceApp Web Studio`s for two years
+- :rocket: Worked at SpaceApp Web Studio`s for two years
 - 🌱 Currently working on improving my skills in .NET
 
 # 📫 Contact Me on Social Media
